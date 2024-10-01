@@ -12,7 +12,7 @@ python --version
 pip --version
 ```
 
-## Installing Flask
+## Installing Requirements
 
 In your terminal run the requirements.txt file using this pip
 
