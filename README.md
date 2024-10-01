@@ -5,7 +5,7 @@
 If you have Python & pip installed then check their version in the terminal or command line tools
 
 ```
-python3 --version
+python --version
 ```
 
 ```
