@@ -28,7 +28,7 @@ cd ChatBot_App
 ```
 
 ```
-python app.py
+flask run
 ```
 
 
