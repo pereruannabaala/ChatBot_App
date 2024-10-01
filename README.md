@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Running ChatBot Application in Terminal
 
 ```
-cd into your directory
+cd ChatBot_App
 ```
 
 ```
